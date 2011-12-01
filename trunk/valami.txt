@@ -1,5 +1,0 @@
-proba proba
-
-I was here
- 
-Test passed successfully
